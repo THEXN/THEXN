@@ -1,6 +1,6 @@
 # 你说的对，但是我是肝帝熙恩
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Note+Mono&size=26&pause=1000&color=000000&background=FFE8E500&vCenter=true&random=false&width=435&lines=🔭我是肝帝熙恩!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Note+Mono&size=26&pause=1000&color=000000&background=FFE8E500&vCenter=true&random=false&width=435&lines=🔭爷肝帝熙恩!)
 
 ## 👨‍💻 关于我
 
@@ -16,6 +16,8 @@
 - 🐦 Twitter：[@THEXN](https://twitter.com/THEXN679)
 - 📺 bilibili：[肝帝熙恩](https://space.bilibili.com/171369384)
 - 🐧 QQ：2383759126
+- 🎮 Discord：[THEXN](https://discord.com/users/thexn679)  <!-- 修改为你的Discord用户名和号码 -->
+
 
 ## 📊 GitHub 统计
 
