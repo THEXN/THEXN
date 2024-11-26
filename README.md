@@ -1,6 +1,6 @@
 # 你说的对，但是我是肝帝熙恩
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Note+Mono&size=26&pause=1000&color=000000&background=FFE8E500&vCenter=true&random=false&width=435&lines=🔭我是THEXN!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Note+Mono&size=26&pause=1000&color=000000&background=FFE8E500&vCenter=true&random=false&width=435&lines=🔭我是肝帝熙恩!)
 
 ## 👨‍💻 关于我
 
@@ -20,12 +20,14 @@
 ## 📊 GitHub 统计
 
 ![GitHub 统计](https://github-readme-stats.vercel.app/api?username=THEXN&show_icons=true&count_private=true&hide_title=true)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=THEXN)
 
 ## 🔧 使用的技术与工具
 
 ![Python](https://img.shields.io/badge/-Python-lightblue?style=plastic&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=C%2B%2B)
-![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)
+![C#](https://img.shields.io/badge/-C%23-green?style=plastic&logo=CSharp)
+
 
 ## 🎮 游戏
 
