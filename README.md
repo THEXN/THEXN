@@ -29,4 +29,4 @@
 
 [genshin-image]: https://genshin-card.himiku.com/[47,48,49,51,10,0,4,67,89,79]/72962127.png
 
-[Steam Card]:https://card.yuy1n.io/card/76561198944480119/dark,badge,group,bg-game
+[Steam Card]:https://card.yuy1n.io/card/76561198901695817/dark,badge,group,bg-game
