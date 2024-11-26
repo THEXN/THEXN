@@ -35,7 +35,7 @@
 ![原神卡片](https://genshin-card.himiku.com/[47,48,49,51,10,0,4,67,89,79]/72962127.png)
 
 ### 我的Steam资料
-![Steam卡片](https://card.yuy1n.io/card/76561198901695817/dark,badge,group,bg-game)
+![Steam卡片](https://card.yuy1n.io/card/941430089/dark,badge,group,bg-game)
 
 ## 📈 我的热门语言
 
