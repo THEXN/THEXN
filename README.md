@@ -1,9 +1,9 @@
-# 你说的对，但是我是肝帝熙恩
+# 你说的对，但是我是洗头老
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Note+Mono&size=26&pause=1000&color=000000&background=FFE8E500&vCenter=true&random=false&width=435&lines=🔭爷是肝帝熙恩!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Note+Mono&size=26&pause=1000&color=000000&background=FFE8E500&vCenter=true&random=false&width=435&lines=🔭洗头老!)
 
 ## 👨‍💻 关于我
-
+- 肝帝熙恩
 - 🎓 要死的大学生
 - 💻 精通编程语言：啥都不会
 - 📚 当前学习： 啥都不想学
