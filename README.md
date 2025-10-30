@@ -1,6 +1,4 @@
-# 你说的对，但是我是洗头老
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Note+Mono&size=26&pause=1000&color=000000&background=FFE8E500&vCenter=true&random=false&width=435&lines=🔭洗头老!)
+# THEXN
 
 ## 👨‍💻 关于我
 - 肝帝熙恩
