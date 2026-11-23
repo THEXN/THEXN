@@ -11,7 +11,6 @@
 ## 📬 联系我
 
 - 📫 邮箱： 2383759126@qq.com
-- 🐦 Twitter：[@THEXN](https://twitter.com/THEXN679)
 - 📺 bilibili：[肝帝熙恩](https://space.bilibili.com/171369384)
 - 🎮 Discord：[THEXN](https://discordapp.com/users/970251468609302528)
 - 🐧 QQ：2383759126
